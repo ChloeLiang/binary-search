@@ -1,0 +1,22 @@
+{
+  "name": "binary-search",
+  "version": "1.0.0",
+  "description": "Implement a binary search algorithm that takes in two parameters, `list` and `searchValue`, and returns a boolean value indicating whether the input `searchValue` exists in the input `list`. For example:",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChloeLiang/binary-search.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChloeLiang/binary-search/issues"
+  },
+  "homepage": "https://github.com/ChloeLiang/binary-search#readme",
+  "dependencies": {
+    "jsonfile": "^5.0.0"
+  }
+}
